@@ -33,9 +33,10 @@
 
 ## GitHub 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevi05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=11001C&title_color=DA70D6&icon_color=BC6FF1&text_color=E0B0FF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeevi05&theme=tokyonight&hide_border=true&ring=DA70D6&fire=BC6FF1&currStreakLabel=FFB6C1&background=11001C" width="48%" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeevi05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=11001C&title_color=DA70D6&icon_color=BC6FF1&text_color=E0B0FF" width=400px" 
+        </p><p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeevi05&theme=tokyonight&hide_border=true&ring=DA70D6&fire=BC6FF1&currStreakLabel=FFB6C1&background=11001C" width=400px />
 </p>
 
 
