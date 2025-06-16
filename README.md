@@ -13,7 +13,7 @@
 
 ---
 
-## Tech Universe
+## Tech 
 
 ![HTML](https://img.shields.io/badge/HTML5-68507B?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-8D769A?style=for-the-badge&logo=css&logoColor=white)
