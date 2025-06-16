@@ -47,14 +47,14 @@
 ## 🌠 Let’s Connect Across the Universe
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/rajeevi-madhireddy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.rajeevimadhireddy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-BA55D3?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-DA70D6?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://leetcode.com/u/Rajeevi_Madhireddy/">
+    <img src="https://img.shields.io/badge/LeetCode-DA70D6?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
 
