@@ -1,16 +1,15 @@
 <!-- Header with Galaxy Vibes -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevi05&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=BC6FF1&title_color=DA70D6&bg_color=000000" width="0" height="0" alt="invisible for preload">
-  <img src="https://raw.githubusercontent.com/rajeevi05/rajeevi05/main/assets/galaxy-banner.gif" alt="Galactic Header" width="100%" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC6FF1&center=true&vCenter=true&width=1000&lines=Hey+there,+I%E2%80%99m+Rajeevi+Madhireddy;Exploring+Blockchain+and+the+Universe;Fueling+curiosity+one+line+at+a+time..." />
+<h1 align="center" font-family: 'Fira Code'>
+      Hey there! <strong style="color: #BC6FF1;">I am Rajeevi Madhireddy ✨</strong>
 </h1>
 
-<h2 align="center" style="color: #BC6FF1;">
-  <strong style="color:#DA70D6">Rajeevi Madhireddy</strong>
-</h2>
+
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BC6FF1&center=true&vCenter=true&width=1000&lines=Exploring+Blockchain+and+the+Universe;Fueling+curiosity+one+line+at+a+time..." />
+</h1>
+
+
 
 ---
 
@@ -44,8 +43,10 @@
 
 ## LeetCode 
 
-  <img src="https://leetcard.jacoblin.cool/Rajeevi_Madhireddy?theme=dark&ext=heatmap&font=Fira+Code&bg=000000&border_radius=15&title_color=DDA0FF&heatmap=purple&icon_color=BC6FF1&text_color=E0B0FF" width="47%" />
+ <p >
+  <img src="https://leetcard.jacoblin.cool/Rajeevi_Madhireddy?ext=heatmap&theme=dark&font=Fira+Code&bg=000000&border_radius=15&title_color=DDA0FF&heatmap=purple&icon_color=BC6FF1&text_color=E0B0FF" width="400px" />
 </p>
+
 
 
 ---
@@ -53,7 +54,7 @@
 ## Let’s Connect Across the Universe
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rajeevi-madhireddy" target="_blank">
+  <a href="https://www.linkedin.com/in/rajeevi-madhireddy-064a292a5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rajeevimadhireddy@gmail.com">
