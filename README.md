@@ -1,6 +1,6 @@
 <!-- Header with Galaxy Vibes -->
 <h1 align="center" font-family: 'Fira Code'>
-      Hey there! <strong style="color: #BC6FF1;">I am Rajeevi Madhireddy ✨</strong>
+      Hey there! <strong style="color: #BC6FF1;">I am Rajeevi✨</strong>
 </h1>
 
 
