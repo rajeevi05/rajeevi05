@@ -34,9 +34,9 @@
 ## GitHub 
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rajeevi05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=11001C&title_color=DA70D6&icon_color=BC6FF1&text_color=E0B0FF" width=60%" 
-        </p><p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeevi05&theme=tokyonight&hide_border=true&ring=DA70D6&fire=BC6FF1&currStreakLabel=FFB6C1&background=11001C" width=60% />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeevi05&show_icons=true&theme=tokyonight&hide_border=true&bg_color=11001C&title_color=DA70D6&icon_color=BC6FF1&text_color=E0B0FF" width=49%" />
+       
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajeevi05&theme=tokyonight&hide_border=true&ring=DA70D6&fire=BC6FF1&currStreakLabel=FFB6C1&background=11001C" width=49% />
 </p>
 
 
@@ -45,7 +45,7 @@
 ## LeetCode 
 
  <p >
-  <img src="https://leetcard.jacoblin.cool/Rajeevi_Madhireddy?ext=heatmap&theme=dark&font=Fira+Code&bg=000000&border_radius=15&title_color=DDA0FF&heatmap=purple&icon_color=BC6FF1&text_color=E0B0FF" width="400px" />
+  <img src="https://leetcard.jacoblin.cool/Rajeevi_Madhireddy?ext=heatmap&theme=dark&font=Fira+Code&bg=000000&border_radius=15&title_color=DDA0FF&heatmap=purple&icon_color=BC6FF1&text_color=E0B0FF" width=47% />
 </p>
 
 
